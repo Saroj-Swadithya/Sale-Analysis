@@ -64,7 +64,7 @@
 Clone the repository and explore to replicate analyses and visualize results.:
 
    ```bash
-   git clone https://github.com/Saroj-Swadithya/Loan-Eligibility-Prediction.git
+   git clone https://github.com/Saroj-Swadithya/Sale-Analysis.git
    ```
 
 ## Future Work:
