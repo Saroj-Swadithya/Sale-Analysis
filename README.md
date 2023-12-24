@@ -61,8 +61,11 @@
 
 ## Usage:
 
-* Clone the repository and explore to replicate analyses and visualize results.
-git clone https://github.com/Saroj-Swadithya/Sale-Analysis.git
+Clone the repository and explore to replicate analyses and visualize results.:
+
+   ```bash
+   git clone https://github.com/Saroj-Swadithya/Loan-Eligibility-Prediction.git
+   ```
 
 ## Future Work:
 
